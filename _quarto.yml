@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Sebastian Schwarz"
+  site-url: "https://vonwald-source.github.io/vonwald.github.io/"
 
   navbar:
     left:
