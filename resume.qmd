@@ -1,0 +1,23 @@
+---
+title: "Resume"
+---
+
+# Resume
+
+You can view or download my current resume below.
+
+[📄 Download Resume](docs/Sebastian_Schwarz_Resume.pdf)
+
+## Education
+
+Master of Science in Applied Business Analytics  
+Boston University
+
+Master of Arts in International Business  
+Munich Business School
+
+Bachelor of Science in Business Administration (International Business)  
+Chapman University
+
+Bachelor of Arts in History  
+Chapman University

@@ -2,12 +2,20 @@ project:
   type: website
 
 website:
-  title: "AD688-sebastian-website"
+  title: "Sebastian Schwarz"
+
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About Me
+      - href: resume.qmd
+        text: Resume
+      - href: projects.qmd
+        text: Projects
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
@@ -16,6 +24,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-
